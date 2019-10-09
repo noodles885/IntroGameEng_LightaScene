@@ -67,43 +67,43 @@
     <None Include="Assets\info_morgueroom.txt" />
     <None Include="Assets\Z_Morgue Room PBR\Link To Asset.txt" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/UnityProjects/Cinematics_LightaScene/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/SamUnityProjects/Cinematics_LightaScene/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProGrids">
-      <HintPath>C:/UnityProjects/Cinematics_LightaScene/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
+      <HintPath>C:/SamUnityProjects/Cinematics_LightaScene/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/UnityProjects/Cinematics_LightaScene/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/SamUnityProjects/Cinematics_LightaScene/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
-      <HintPath>C:/UnityProjects/Cinematics_LightaScene/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+      <HintPath>C:/SamUnityProjects/Cinematics_LightaScene/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProGrids.Editor">
-      <HintPath>C:/UnityProjects/Cinematics_LightaScene/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll</HintPath>
+      <HintPath>C:/SamUnityProjects/Cinematics_LightaScene/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/UnityProjects/Cinematics_LightaScene/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/SamUnityProjects/Cinematics_LightaScene/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/UnityProjects/Cinematics_LightaScene/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/SamUnityProjects/Cinematics_LightaScene/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/UnityProjects/Cinematics_LightaScene/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/SamUnityProjects/Cinematics_LightaScene/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/UnityProjects/Cinematics_LightaScene/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/SamUnityProjects/Cinematics_LightaScene/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/UnityProjects/Cinematics_LightaScene/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/SamUnityProjects/Cinematics_LightaScene/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AddOns.Editor">
-      <HintPath>C:/UnityProjects/Cinematics_LightaScene/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+      <HintPath>C:/SamUnityProjects/Cinematics_LightaScene/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/UnityProjects/Cinematics_LightaScene/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/SamUnityProjects/Cinematics_LightaScene/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/UnityProjects/Cinematics_LightaScene/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/SamUnityProjects/Cinematics_LightaScene/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
