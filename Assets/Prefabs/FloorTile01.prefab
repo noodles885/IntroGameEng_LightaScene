@@ -18,7 +18,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &3034961016569510455
 Transform:
@@ -170,11 +170,11 @@ GameObject:
   m_Component:
   - component: {fileID: 7207751766589876474}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: FloorTile01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &7207751766589876474
 Transform:
