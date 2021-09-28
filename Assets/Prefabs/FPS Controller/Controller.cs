@@ -10,29 +10,21 @@ using UnityEditor;
 
 public class Controller : MonoBehaviour
 {
-    //Urg that's ugly, maybe find a better way
+    
     public static Controller Instance { get; protected set; }
 
     public Camera MainCamera;
 
-
-    public Transform CameraPosition;
-
-
-    //this is only use at start, allow to grant ammo in the inspector. m_AmmoInventory is used during gameplay
- 
+    public Transform CameraPosition;   
 
     [Header("Control Settings")]
     public float MouseSensitivity = 100.0f;
     public float PlayerSpeed = 5.0f;
     public float RunningSpeed = 7.0f;
-    public float JumpSpeed = 5.0f;
-
-   
+    public float JumpSpeed = 5.0f;   
 
     float m_VerticalSpeed = 0.0f;
     bool m_IsPaused = false;
-
 
     float m_VerticalAngle, m_HorizontalAngle;
     public float Speed { get; private set; } = 0.0f;
@@ -76,8 +68,6 @@ public class Controller : MonoBehaviour
 
     void Update()
     {
-        
-
         bool wasGrounded = m_Grounded;
         bool loosedGrounding = false;
 
